@@ -1,6 +1,6 @@
 # Minecraft skin converter
-This allows you to convert alex-style skins into steve-style skins. I made this a while ago. You might need to modify the script to get it to work.
+A simple GUI to allow you to convert between skin types.
 
-Currently only one-way. Might add the reverse way at some point.
+It only supports Alex to Steve currently.
 
 ## More projects: https://zohiu.de/projects/  
